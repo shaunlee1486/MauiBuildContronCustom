@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildControlTemplateDemo", "BuildControlTemplateDemo\BuildControlTemplateDemo.csproj", "{F6B7FFC8-A7CE-4B17-820B-3514C292462F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6B7FFC8-A7CE-4B17-820B-3514C292462F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B7FFC8-A7CE-4B17-820B-3514C292462F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B7FFC8-A7CE-4B17-820B-3514C292462F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F6B7FFC8-A7CE-4B17-820B-3514C292462F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B7FFC8-A7CE-4B17-820B-3514C292462F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B7FFC8-A7CE-4B17-820B-3514C292462F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD2B6A2D-3166-4F89-8666-172046D5BF10}
+	EndGlobalSection
+EndGlobal
